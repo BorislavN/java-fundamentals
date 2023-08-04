@@ -1,4 +1,4 @@
-package objects_and_classes.groomingSalon;
+package objects_and_classes.groomingsalon;
 
 public class Main {
     public static void main(String[] args) {
