@@ -1,4 +1,4 @@
-package exam;
+package exam.final_exam;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

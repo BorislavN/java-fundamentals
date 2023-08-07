@@ -1,4 +1,4 @@
-package exam;
+package exam.mid_exam;
 
 import java.io.BufferedReader;
 import java.io.IOException;
